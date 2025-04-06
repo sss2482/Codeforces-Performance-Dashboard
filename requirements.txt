@@ -1,0 +1,6 @@
+pydash
+dash
+requests
+plotly_calplot
+dash_bootstrap_components
+gunicorn
