@@ -1,4 +1,4 @@
-# **Codeforces-Visualizer**
+# **Codeforces-Performance-Dashboard**
 
 **Data Visualization Mini Project**
 
@@ -6,9 +6,7 @@ Repository for the Data Visualization Mini Project.
 
 Tech Stack: **Python Dash**
 
-Github Repository Link: https://github.com/VinayN18/Codeforces-Visualizer
-
-Deployed Link: https://codeforces-visualizer.onrender.com
+Github Repository Link: https://github.com/sss2482/Codeforces-Performance-Dashboard
 
 ## **Codeforces Dashboard**
 
@@ -21,7 +19,7 @@ Deployed Link: https://codeforces-visualizer.onrender.com
 1. Clone the Github Repository
 
 ```bash
-  git clone https://github.com/VinayN18/Codeforces-Visualizer.git
+  git clone https://github.com/sss2482/Codeforces-Performance-Dashboard.git
 ```
 
 2. Next go to the project location
